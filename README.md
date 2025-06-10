@@ -96,6 +96,6 @@ python fisiotrack.py
 
 ## 👤 Autor
 
-* **[SEU NOME]**
+* **José Neto**
 * **GitHub:** [https://github.com/dev-netinho](https://github.com/dev-netinho)
-* **LinkedIn:** `[https://www.linkedin.com/in/jose-gc-neto/]`
+* **LinkedIn:** `https://www.linkedin.com/in/jose-gc-neto/`
