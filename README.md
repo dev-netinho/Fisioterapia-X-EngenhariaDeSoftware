@@ -40,7 +40,7 @@ Siga os passos abaixo para executar os projetos em sua máquina.
 
 **2. Clone o Repositório:**
 ```sh
-git clone [https://github.com/dev-netinho/Fisioterapia-X-EngenhariaDeSoftware](https://github.com/dev-netinho/Fisioterapia-X-EngenhariaDeSoftware)
+git clone [https://github.com/dev-netinho/Fisioterapia-X-EngenhariaDeSoftware]
 cd Fisioterapia-X-EngenhariaDeSoftware
 ```
 
